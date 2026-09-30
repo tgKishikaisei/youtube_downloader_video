@@ -1,0 +1,5 @@
+# Lock: uv pip compile requirements.in --universal --python-version 3.10 --generate-hashes -o requirements.txt
+# Для склейки видео и звука нужен ffmpeg в PATH.
+aiogram>=3.16
+yt-dlp>=2026.8.19
+python-dotenv>=1.0
